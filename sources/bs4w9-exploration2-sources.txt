@@ -1,0 +1,13 @@
+http://www.bshucart.me:8080/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04-source
+
+https://www.digitalocean.com/community/tutorials/how-to-integrate-mongodb-with-your-node-application
+
+
+
+
+
+
+
+
